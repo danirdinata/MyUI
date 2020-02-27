@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyUI</string>
+    <string name="praktikum_sab">Praktikum SAB</string>
+    <string name="hello_world">Hello World</string>
+    <string name="hello_sab">Hello SAB</string>
+    <string name="helloWorld">helloWorld</string>
+    <string name="helloSAB">helloSAB</string>
+    <string name="load_image_github">load image github</string>
+    <string name="loadGithub">loadGithub</string>
+    <string name="load_image_codepen">load image codepen</string>
+    <string name="loadCodepen">loadCodepen</string>
+    <string name="change_background">Change Background to Black</string>
+    <string name="toBlack">toBlack</string>
+    <string name="change_blue">change background to blue</string>
+    <string name="toBlue">toBlue</string>
+    <string name="change_red">change background to red</string>
+    <string name="toRed">toRed</string>
+    <string name="planets">Planets</string>
+    <string-array name="galaxy_array">
+        <item>Bima Sakti</item>
+        <item>Andromedia</item>
+    </string-array>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
